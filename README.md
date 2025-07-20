@@ -1,2 +1,2 @@
-# PRODIGY_CS_05
-Internship task 05 -: Network packet Analyzer 
+# Network Packet Analyzer
+Network packet Analyzer implemented using python 
